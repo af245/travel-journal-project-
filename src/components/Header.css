@@ -1,0 +1,21 @@
+.header--container{
+    background-color: #F55A5A;
+    height: 55px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.header--title--container{
+    display: flex;
+    align-items: center;
+}
+.globe{
+    height: 24px;
+    width: 24x;
+    margin-right: 7px;
+}
+.header--title{
+    font-size: 14.46px;
+    font-weight: 500;
+}
