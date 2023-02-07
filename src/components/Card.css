@@ -1,0 +1,40 @@
+.card--container{
+    display: flex;
+    flex-direction: row;
+    margin-top: 45px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.image--container img{
+    width:125px;
+    height:168px;
+    margin-right: 19px;
+}
+.info--country{
+    letter-spacing: .17em;
+    font-size: 10.24px;
+    font-weight: 400;
+}
+.info--link{
+    font-size: 10.24px;
+    font-weight: 400;
+}
+.content--name{
+    font-size: 25px;
+    font-weight: 700;
+}
+.content--date{
+    font-size: 10.24px;
+    font-weight: 700;
+    margin-top: 7px;
+}
+.content--description{
+    font-size: 10.24px;
+    font-weight: 400;
+    margin-top: 9px;
+}
+.pin{
+    color: #f55a5a;
+    margin-right: 4px;
+    width: 7px;
+}
